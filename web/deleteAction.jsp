@@ -13,6 +13,7 @@
 <html>
 <head>
     <meta http-equiv="Content-Type" charset="UTF-8" content="text/html">
+    <link rel="stylesheet" href="css/custom.css">
     <title>Login</title>
 </head>
 <body>
